@@ -1,2 +1,2 @@
 # sand-monster-sports
-This is a hello world repository for the public github.
+Sand Monster Sports is the name of this repository.
